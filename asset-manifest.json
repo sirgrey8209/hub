@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/hub/static/css/main.983b7b38.css",
-    "main.js": "/hub/static/js/main.e796f637.js",
+    "main.css": "/hub/static/css/main.2ff87fa8.css",
+    "main.js": "/hub/static/js/main.d8e1ac44.js",
+    "static/media/carnation_hanataba.png": "/hub/static/media/carnation_hanataba.f815d38e7f87375e67c4.png",
     "index.html": "/hub/index.html",
-    "main.983b7b38.css.map": "/hub/static/css/main.983b7b38.css.map",
-    "main.e796f637.js.map": "/hub/static/js/main.e796f637.js.map"
+    "main.2ff87fa8.css.map": "/hub/static/css/main.2ff87fa8.css.map",
+    "main.d8e1ac44.js.map": "/hub/static/js/main.d8e1ac44.js.map"
   },
   "entrypoints": [
-    "static/css/main.983b7b38.css",
-    "static/js/main.e796f637.js"
+    "static/css/main.2ff87fa8.css",
+    "static/js/main.d8e1ac44.js"
   ]
 }
