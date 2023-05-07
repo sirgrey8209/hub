@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hub/static/css/main.4bde68b1.css",
-    "main.js": "/hub/static/js/main.1fe3f5f2.js",
+    "main.js": "/hub/static/js/main.79766c7c.js",
     "static/media/bgm2.mp3": "/hub/static/media/bgm2.cf4e8bf6eb2149b46c6f.mp3",
     "static/media/carnation_hanataba.png": "/hub/static/media/carnation_hanataba.f815d38e7f87375e67c4.png",
     "static/media/audio-on.svg": "/hub/static/media/audio-on.5ea7b82d3c7954d7d806c073254ffcfa.svg",
     "static/media/audio-off.svg": "/hub/static/media/audio-off.99b27f4a927224d0960a38ecf8d028d8.svg",
     "index.html": "/hub/index.html",
     "main.4bde68b1.css.map": "/hub/static/css/main.4bde68b1.css.map",
-    "main.1fe3f5f2.js.map": "/hub/static/js/main.1fe3f5f2.js.map"
+    "main.79766c7c.js.map": "/hub/static/js/main.79766c7c.js.map"
   },
   "entrypoints": [
     "static/css/main.4bde68b1.css",
-    "static/js/main.1fe3f5f2.js"
+    "static/js/main.79766c7c.js"
   ]
 }
